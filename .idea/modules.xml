@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividades/Atividades.iml" filepath="$PROJECT_DIR$/Atividades/Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ativivade-de-POO.iml" filepath="$PROJECT_DIR$/.idea/Ativivade-de-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade 1/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/Atividades/atividade 1/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade 1/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Atividades/atividade 1/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade 2/ClimateChecker/ClimateChecker.iml" filepath="$PROJECT_DIR$/Atividades/atividade 2/ClimateChecker/ClimateChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade 2/MaxValueFinder/MaxValueFinder.iml" filepath="$PROJECT_DIR$/Atividades/atividade 2/MaxValueFinder/MaxValueFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividades/atividade 2/StringAnalyzer/StringAnalyzer.iml" filepath="$PROJECT_DIR$/Atividades/atividade 2/StringAnalyzer/StringAnalyzer.iml" />
+    </modules>
+  </component>
+</project>
